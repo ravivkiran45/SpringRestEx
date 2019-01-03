@@ -6,7 +6,7 @@
 	<groupId>com.journaldev.spring</groupId>
 	<artifactId>Spring-Boot-REST</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>Spring-Boot-REST</name>
 	<description>Spring Boot REST Example</description>
