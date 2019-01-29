@@ -8,6 +8,8 @@ public class Person {
 	private String name;
 	
 	private String age;
+	
+	private String jan2019;
 
 	public String getName() {
 		return name;
